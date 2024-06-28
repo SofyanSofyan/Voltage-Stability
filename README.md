@@ -55,7 +55,7 @@ Remember that voltage stability is closely tied to the maximum power transfer in
 
 ## Contribution 🛠️
 
-Please create an [Issue](https://github.com/sofyansurung/Voltage-Stability/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/sofyansofyan/Voltage-Stability/issues) for any improvements, suggestions or errors in the content.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fop1i%2FVoltage-Stability&label=Visitor&countColor=%23263759)
 

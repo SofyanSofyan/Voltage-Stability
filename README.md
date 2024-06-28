@@ -37,7 +37,6 @@ Source: Conversation with Copilot, 6/28/2024
 
 
 
-```markdown
 | Category                         | Index/Sub-index                           | Objectives/Sub-objectives                                       |
 |----------------------------------|-------------------------------------------|----------------------------------------------------------------|
 | **Line Voltage Stability Indices** | Voltage Stability Index (VSI)             | Voltage stability assessment in RDS                            |
@@ -51,7 +50,7 @@ Source: Conversation with Copilot, 6/28/2024
 |                                  | Power Transfer Stability Index (PTSI)     | Calculates the effect of adding additional equipment           |
 |                                  | Line Collapse Proximity Index (LCPI)      | Identifies the relative flow of reactive and active power with ABCD |
 |                                  | Integrated Transmission Line Transfer Index (ITLTI) | Adapted for larger systems, identifies the weakest line        |
-```
+
 
 
 

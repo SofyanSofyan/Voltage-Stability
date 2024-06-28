@@ -33,6 +33,11 @@ Source: Conversation with Copilot, 6/28/2024
 (3) A Framework for Robust Long-Term Voltage Stability of Distribution Systems. https://www.mit.edu/~turitsyn/assets/pubs/Nguyen2018ju.pdf.
 (4) undefined. https://doi.org/10.3390/electricity3010006.
 
+| Number | Name   | Phone        |
+|--------|--------|--------------|
+| 1      | Alice  | 123-456-7890 |
+| 2      | Bob    | 987-654-3210 |
+| 3      | Carol  | 555-123-4567 |
 
 
 ## Contribution 🛠️

@@ -33,11 +33,27 @@ Source: Conversation with Copilot, 6/28/2024
 (3) A Framework for Robust Long-Term Voltage Stability of Distribution Systems. https://www.mit.edu/~turitsyn/assets/pubs/Nguyen2018ju.pdf.
 (4) undefined. https://doi.org/10.3390/electricity3010006.
 
-| Number | Name   | Phone        |
-|--------|--------|--------------|
-| 1      | Alice  | 123-456-7890 |
-| 2      | Bob    | 987-654-3210 |
-| 3      | Carol  | 555-123-4567 |
+## calassification of Volatge Indices
+
+
+
+```markdown
+| Category                         | Index/Sub-index                           | Objectives/Sub-objectives                                       |
+|----------------------------------|-------------------------------------------|----------------------------------------------------------------|
+| **Line Voltage Stability Indices** | Voltage Stability Index (VSI)             | Voltage stability assessment in RDS                            |
+|                                  | Fast Voltage Stability Index (FVSI)       | Identifies weakest Bus; critical Line                          |
+|                                  | Voltage Stability Load Bus Index (VSLBI)  | Collapse is local monitoring                                   |
+|                                  | Critical Voltage (VC)                     | Specifies the minimum voltage where the system performs away from collapse |
+| **Bus Voltage Stability Indices**  | L-Index                                   | Identifies potential voltage instability problems              |
+|                                  | Voltage Instability Proximity Index (VIPI)| Assesses proximity to voltage collapse                         |
+|                                  | Voltage Collapse Proximity Index (VCPI)   | Evaluates system's proximity to voltage collapse               |
+|                                  | Voltage Stability Margin Index (VSMB)     | Evaluates stability margin and determines weak locations       |
+|                                  | Power Transfer Stability Index (PTSI)     | Calculates the effect of adding additional equipment           |
+|                                  | Line Collapse Proximity Index (LCPI)      | Identifies the relative flow of reactive and active power with ABCD |
+|                                  | Integrated Transmission Line Transfer Index (ITLTI) | Adapted for larger systems, identifies the weakest line        |
+```
+
+
 
 
 ## Contribution 🛠️

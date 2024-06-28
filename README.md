@@ -32,3 +32,22 @@ Source: Conversation with Copilot, 6/28/2024
 (2) Power System Voltage Stability | SpringerLink. https://link.springer.com/referenceworkentry/10.1007/978-1-4471-5058-9_263.
 (3) A Framework for Robust Long-Term Voltage Stability of Distribution Systems. https://www.mit.edu/~turitsyn/assets/pubs/Nguyen2018ju.pdf.
 (4) undefined. https://doi.org/10.3390/electricity3010006.
+
+
+Please create an [Issue] (https://github.com/op1i/Voltage-Stability/issues) for any improvements, suggestions or errors in the content.
+
+Visit Bing
+
+Certainly! To create a link URL in Markdown, you can use the following syntax:
+
+```markdown
+[Link Text](URL)
+```
+
+Replace `Link Text` with the text you want to display for the link, and `URL` with the actual web address you want to link to. For example:
+
+```markdown
+[Visit Bing](https://www.bing.com/)
+```
+
+This will create a clickable link that displays "Visit Bing" and directs users to the Bing search engine. Feel free to customize the link text and URL as needed! 😊

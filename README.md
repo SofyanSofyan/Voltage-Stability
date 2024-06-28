@@ -34,6 +34,11 @@ Source: Conversation with Copilot, 6/28/2024
 (4) undefined. https://doi.org/10.3390/electricity3010006.
 
 
+```markdown
+## Contribution 🛠️
+```
+
+This will display "Contribution 🛠️" as a bold heading. Feel free to adjust the text and styling as needed! 😊
 Please create an [Issue](https://github.com/op1i/Voltage-Stability/issues) for any improvements, suggestions or errors in the content.
 
 Visit Bing

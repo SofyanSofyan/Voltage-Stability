@@ -30,7 +30,6 @@ Remember that voltage stability is closely tied to the maximum power transfer in
 (1) Electricity | Free Full-Text | Analytical Methods of Voltage Stability .... https://www.mdpi.com/2673-4826/3/1/6.
 (2) Power System Voltage Stability | SpringerLink. https://link.springer.com/referenceworkentry/10.1007/978-1-4471-5058-9_263.
 (3) A Framework for Robust Long-Term Voltage Stability of Distribution Systems. https://www.mit.edu/~turitsyn/assets/pubs/Nguyen2018ju.pdf.
-(4) undefined. https://doi.org/10.3390/electricity3010006.
 
 ## calassification of Volatge Indices
 

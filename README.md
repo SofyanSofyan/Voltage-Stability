@@ -27,7 +27,6 @@ Voltage stability is a critical concern in modern power distribution networks, e
 Remember that voltage stability is closely tied to the maximum power transfer in an AC network. While normal conditions should never approach this limit, the rapid growth in electricity demand necessitates continuous research and improvements in stability analysis².
 
 
-Source: Conversation with Copilot, 6/28/2024
 (1) Electricity | Free Full-Text | Analytical Methods of Voltage Stability .... https://www.mdpi.com/2673-4826/3/1/6.
 (2) Power System Voltage Stability | SpringerLink. https://link.springer.com/referenceworkentry/10.1007/978-1-4471-5058-9_263.
 (3) A Framework for Robust Long-Term Voltage Stability of Distribution Systems. https://www.mit.edu/~turitsyn/assets/pubs/Nguyen2018ju.pdf.

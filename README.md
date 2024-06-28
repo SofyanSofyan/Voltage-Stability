@@ -37,22 +37,7 @@ Source: Conversation with Copilot, 6/28/2024
 
 ## Contribution 🛠️
 
-
-This will display "Contribution 🛠️" as a bold heading. Feel free to adjust the text and styling as needed! 😊
 Please create an [Issue](https://github.com/op1i/Voltage-Stability/issues) for any improvements, suggestions or errors in the content.
 
-Visit Bing
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fop1i%2FVoltage-Stability&label=Visitor&countColor=%23263759)
 
-Certainly! To create a link URL in Markdown, you can use the following syntax:
-
-```markdown
-[Link Text](URL)
-```
-
-Replace `Link Text` with the text you want to display for the link, and `URL` with the actual web address you want to link to. For example:
-
-```markdown
-[Visit Bing](https://www.bing.com/)
-```
-
-This will create a clickable link that displays "Visit Bing" and directs users to the Bing search engine. Feel free to customize the link text and URL as needed! 😊
